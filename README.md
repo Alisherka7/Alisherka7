@@ -1,4 +1,4 @@
-### Hi there 👋 I am Ali, Junior developer and I specialize in solving algorithms and Mobile developing 💻📱⌚️.<br>
+### Hi there 👋 I am Ali, Software developer and I specialize in solving algorithms and Mobile developing 💻📱⌚️.<br>
 👨‍🎓 I'm a <b>Computer Science</b> student at <b>Jeonju University</b><br>
 📖 I’m currently learning <b>Algorithms and DataStructure, Java, C, Python, Swift</b><br>
 
