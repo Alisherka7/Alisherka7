@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Ali, Software developer and I specialize in solving algorithms and Mobile developing 💻📱⌚️.<br>
 👨‍🎓 I'm a <b>Computer Science</b> student at <b>Jeonju University</b><br>
 📖 I’m currently learning <b>Algorithms and DataStructure, Java, C, Python, Swift</b><br>
-👯 I'm looking to collaborate on Android, IOS applications
+👯 I'm looking to collaborate on Android, IOS applications<br>
 😄 My YouTube channel <a href="https://www.youtube.com/channel/UCSSxz9RATKJD9Qa8_IgpqAA">CODELEN</a>
 <!--
 **Alisherka7/Alisherka7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
