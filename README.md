@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Alisherka7%20&fontSize=90)
 ### Hi there 👋 I am Ali, Software developer and I specialize in solving algorithms and Mobile developing 💻📱⌚️.<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alisherka7&count_private=true)
 👨‍🎓 I'm a <b>Computer Science</b> student at <b>Jeonju University</b><br>
 📖 I’m currently learning <b>Algorithms and DataStructure, Java, C, Python, Swift</b><br>
 👯 I'm looking to collaborate on Android, IOS applications<br>
