@@ -8,14 +8,9 @@
 👯 I'm looking to collaborate on Android, IOS applications<br>
 😄 My YouTube channel <a href="https://www.youtube.com/channel/UCSSxz9RATKJD9Qa8_IgpqAA">CODELEN</a><br><br>
 
-## Leetcode Problem Solve
+## Leetcode and Baekjoon Problem Solve
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=user8880j&theme=dark)](https://leetcode.com/user8880j/)
-
-## BaekJoon Problem Solve
-
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=alisherka7)](https://solved.ac/alisherka7)<br>
-![BOJ badge](https://boj-badge.herokuapp.com/?id=alisherka7) <br><br>
-
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=alisherka7)](https://solved.ac/alisherka7)
 
 <!--
 **Alisherka7/Alisherka7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
