@@ -9,13 +9,15 @@
 
 **Contact**
 
-[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:alisherka0151@gmail.com)](mailto:alisherka0151@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ali-togayev-80b843181/)](https://www.linkedin.com/in/ali-togayev-80b843181/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sorry_but_im_monster/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-togayev-80b843181/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:alisherka0151@gmail.com)](mailto:alisherka0151@gmail.com) 
+
 
 **Socials**
 
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCSSxz9RATKJD9Qa8_IgpqAA)](https://www.youtube.com/channel/UCSSxz9RATKJD9Qa8_IgpqAA)
 ![GitHub followers](https://img.shields.io/github/followers/Alisherka7?logo=github)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sorry_but_im_monster/) 
 
 ## Leetcode and Baekjoon Problem Solve
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=user8880j&theme=dark)](https://leetcode.com/user8880j/)
