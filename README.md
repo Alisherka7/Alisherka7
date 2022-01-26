@@ -13,7 +13,7 @@
 
 **Socials**
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCSSxz9RATKJD9Qa8_IgpqAA)](https://www.youtube.com/channel/UCSSxz9RATKJD9Qa8_IgpqAA)
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCSSxz9RATKJD9Qa8_IgpqAA)](https://www.youtube.com/channel/UCSSxz9RATKJD9Qa8_IgpqAA)
 ![GitHub followers](https://img.shields.io/github/followers/Alisherka7?logo=github)
 
 ## Leetcode and Baekjoon Problem Solve
