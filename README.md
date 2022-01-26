@@ -15,6 +15,7 @@
 
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCSSxz9RATKJD9Qa8_IgpqAA)](https://www.youtube.com/channel/UCSSxz9RATKJD9Qa8_IgpqAA)
 ![GitHub followers](https://img.shields.io/github/followers/Alisherka7?logo=github)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sorry_but_im_monster/) 
 
 ## Leetcode and Baekjoon Problem Solve
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=user8880j&theme=dark)](https://leetcode.com/user8880j/)
