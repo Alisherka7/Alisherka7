@@ -21,12 +21,13 @@
 ![GitHub followers](https://img.shields.io/github/followers/Alisherka7?logo=github)
 
 ## Leetcode and Baekjoon Problem Solve
+![](https://badges.peiyuan.ch/leetcode/sorry_but_im_monster/ranking)
+
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=sorry_but_im_monster&theme=dark)](https://leetcode.com/sorry_but_im_monster/)
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=ali0151)](https://solved.ac/ali0151)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlisherka7%2FAlisherka7%2F&count_bg=%236DCFD0&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![CodeForces Profile](https://cf.leed.at?id={Alisherka_7})](https://codeforces.com/profile/{Alisherka_7})
 <!--
 **Alisherka7/Alisherka7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
