@@ -3,7 +3,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alisherka7&show_icons=true&theme=dracula)<br>
 <hr>
 👨‍🎓 I'm a <b>Computer Science</b> student at <b>Jeonju University</b><br>
-📖 I’m currently learning <b>Algorithms and DataStructure, Java, C, Python, Swift</b><br>
+📖 I’m currently learning <b>Algorithms and DataStructure, Java, Swift, C, Python</b><br>
 👯 I'm looking to collaborate on Android, IOS, Web etc...<br>
 💬 My Tistory Blog <a href="https://alisher.tistory.com/">개발자의 블로그</a><br>
 😄 My YouTube channel <a href="https://www.youtube.com/channel/UCSSxz9RATKJD9Qa8_IgpqAA">CODELEN</a><br><br>
