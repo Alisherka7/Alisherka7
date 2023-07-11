@@ -14,6 +14,10 @@
 :white_check_mark: Typing test - 1 hour (92 wpm) <br>
 :white_check_mark: Solve maximum Leetcode easy problems in 1 hour - (Solved 20)
 
+
+:books: **Books**
+* <a href="https://github.com/Alisherka7/concrete_mathematics_a_foundation_of_cs">Concrete Mathematics: A foundation of Computer Science</a>
+
 **Contact**
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sorry_but_im_monster/) 
