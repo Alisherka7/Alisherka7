@@ -8,7 +8,7 @@
 💬 My Tistory Blog <a href="https://alisher.tistory.com/">개발자의 블로그</a><br>
 😄 My YouTube channel <a href="https://www.youtube.com/channel/UCSSxz9RATKJD9Qa8_IgpqAA">CODELEN</a><br><br>
 
-**My Challanges**
+**My Challenges**
 
 :white_check_mark: 1 year solved (Daily) Leetcode problem - (Solved 860) <br>
 :white_check_mark: Typing test - 1 hour (92 wpm) <br>
