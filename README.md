@@ -12,7 +12,7 @@
 
 :white_check_mark: 1 year solved (Daily) Leetcode problem - (Solved 860) <br>
 :white_check_mark: Typing test - 1 hour (92 wpm) <br>
-:white_check_mark: Solve maximum Leetcode easy problems in 1 hour - (Solved 20)
+:white_check_mark: <a href="https://youtu.be/H0M4NSHu_sQ">Solve maximum Leetcode easy problems in 1 hour - (Solved 20) </a>
 
 
 :books: **Books**
