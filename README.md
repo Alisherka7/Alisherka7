@@ -8,11 +8,44 @@
 💬 My Tistory Blog <a href="https://alisher.tistory.com/">개발자의 블로그</a><br>
 😄 My YouTube channel <a href="https://www.youtube.com/channel/UCSSxz9RATKJD9Qa8_IgpqAA">CODELEN</a><br><br>
 
-**My Challenges**
+:trophy: **Awards & Achievements**
+<table>
+<tr>
+    <td>Scholar in the <b>5th Daewoong AI-Big Data</b> Global Scholarship Program</td>
+    <td>2023-06 ~ 2023-12</td>
+</tr>
+  <tr>
+    <td><a href="https://youtu.be/H0M4NSHu_sQ">Solve maximum Leetcode easy problems in 1 hour - (Solved 20) </a></td>
+    <td>2022-07</td>
+</tr>
+<tr>
+    <td>86th Leetcode Biweekly Contest – top 15% (Solved 3⁄4 algorithmic problem) </td>
+    <td>2022-09</td>
+</tr>
+  <tr>
+    <td>1 year solved daily Leetcode problem(Solved 860 algorithmic problem) </td>
+    <td>2022 ~ </td>
+</tr>
+<tr>
+    <td>JJU Software Bootcamp – Student Attendance System  </td>
+    <td>2021-09 ~ 2021-12</td>
+</tr>
+   <tr>
+    <td>Hacker Rank – Problem Solving (Intermediate) Certificate</td>
+    <td>2021-04</td>
+</tr>
+<tr>
+    <td>Volunteer “Code of Hour” – Inha University in Tashkent (IUT)</td>
+    <td>2018-05</td>
+</tr>
+</table>
 
-:white_check_mark: 1 year solved (Daily) Leetcode problem - (Solved 860) <br>
-:white_check_mark: Typing test - 1 hour (92 wpm) <br>
-:white_check_mark: <a href="https://youtu.be/H0M4NSHu_sQ">Solve maximum Leetcode easy problems in 1 hour - (Solved 20) </a>
+<!--
+* Scholar in the **5th Daewoong AI-Big Data** Global Scholarship Program - 2023-06 ~ 2023-12
+* 86th Leetcode Biweekly Contest – top 15%                               - 2022/09
+* 1 year solved (Daily) Leetcode problem - (Solved 860) <br>
+* <a href="https://youtu.be/H0M4NSHu_sQ">Solve maximum Leetcode easy problems in 1 hour - (Solved 20) </a>
+* Typing test - 1 hour (92 wpm) <br> -->
 
 
 :books: **Books**
