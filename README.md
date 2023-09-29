@@ -11,7 +11,7 @@
 :trophy: **Awards & Achievements**
 <table>
 <tr>
-    <td>Internship <b>Daewoong Pharmaceutical</b> on AI Promotion Team</td>
+    <td>Internship at <b>Daewoong Pharmaceutical</b> on AI Promotion Team</td>
     <td>2023-09 ~ 2024-02</td>
 </tr>
 <tr>
