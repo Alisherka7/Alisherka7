@@ -57,6 +57,7 @@
 
 
 :books: **Books**
+* <a href="https://github.com/Alisherka7/introduction_to_algorithms">Introduction to Algorithms</a>
 * <a href="https://github.com/Alisherka7/concrete_mathematics_a_foundation_of_cs">Concrete Mathematics: A foundation of Computer Science</a>
 
 **Contact**
