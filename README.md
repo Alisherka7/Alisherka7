@@ -23,7 +23,7 @@
     <td>2023-06 ~ 2023-12</td>
 </tr>
   <tr>
-    <td><a href="https://youtu.be/H0M4NSHu_sQ">Solve maximum Leetcode easy problems in 1 hour - (Solved 20) </a></td>
+    <td><a href="https://youtu.be/H0M4NSHu_sQ">Solve maximum Leetcode easy problems in 1 hour - (Solved 20) #Challenge</a></td>
     <td>2022-07</td>
 </tr>
 <tr>
