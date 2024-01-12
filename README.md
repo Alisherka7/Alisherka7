@@ -43,7 +43,7 @@
     <td>2021-04</td>
 </tr>
 <tr>
-    <td>Volunteer “Code of Hour” – Inha University in Tashkent (IUT)</td>
+    <td>Microsoft Volunteer “Code of Hour” – Inha University in Tashkent (IUT)</td>
     <td>2018-05</td>
 </tr>
 </table>
