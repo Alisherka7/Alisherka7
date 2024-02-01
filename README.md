@@ -2,7 +2,7 @@
 ### Hi there 👋 I am Ali, I have enjoy solving problems and Mobile app developing, and creating something! 💻📱⌚️.<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alisherka7&show_icons=true&theme=dracula)<br>
 <hr>
-👨‍🎓 I'm a <b>Computer Science</b> student at <b>Jeonju University</b><br>
+👨‍🎓 I'm a <b>Software Engineer</b>
 📖 I’m currently learning <b>Algorithms and DataStructure, Java, C, Python</b><br>
 👯 I'm looking to collaborate on Android, Web etc...<br>
 💬 My Tistory Blog <a href="https://alisher.tistory.com/">개발자의 블로그</a><br>
@@ -69,7 +69,6 @@
 
 **Socials**
 
-
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCSSxz9RATKJD9Qa8_IgpqAA)](https://www.youtube.com/channel/UCSSxz9RATKJD9Qa8_IgpqAA)
 ![GitHub followers](https://img.shields.io/github/followers/Alisherka7?logo=github)
 
@@ -92,6 +91,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: 
+- ⚡ Fun fact: 
 -->
