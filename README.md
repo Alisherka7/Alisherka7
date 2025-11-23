@@ -22,10 +22,10 @@
     <td>Scholar in the <b>5th Daewoong AI-Big Data</b> Global Scholarship Program</td>
     <td>2023-06 ~ 2023-12</td>
 </tr>
-  <tr>
+  <!-- <tr>
     <td><a href="https://youtu.be/H0M4NSHu_sQ">Solve maximum Leetcode easy problems in 1 hour - (Solved 20) #Challenge</a></td>
     <td>2022-07</td>
-</tr>
+</tr> -->
 <tr>
     <td>86th Leetcode Biweekly Contest – top 15% (Solved 3⁄4 algorithmic problem) </td>
     <td>2022-09</td>
@@ -68,8 +68,9 @@
 
 
 **Socials**
-
+<!--
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCSSxz9RATKJD9Qa8_IgpqAA)](https://www.youtube.com/channel/UCSSxz9RATKJD9Qa8_IgpqAA)
+-->
 ![GitHub followers](https://img.shields.io/github/followers/Alisherka7?logo=github)
 
 ## Leetcode and Baekjoon Problem Solve
