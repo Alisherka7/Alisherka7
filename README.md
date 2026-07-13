@@ -1,4 +1,21 @@
-# Alisher Togayev
+## Hi there 👋
+📍 Seoul, South Korea
+
+[![Email](https://img.shields.io/badge/Email-alisherka0151%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:alisherka0151@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-alisherka7-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/alisherka7)
+
+
+
+## 3+ Years Experienced Software Engineer
+
+Currently lead `AWS Cloud` based `Vertical SmartFarm System` and `Robot Fleet Management System`.
+* Kubernetes microservice infra deployment with CI/CD pipeline.
+* ESP(IDF) IOT Firmware Development
+* Robot MQTT Bridge (Cloud Connection)
+
+## Education
+* Schoolar: **Daewoong Pharmaceutical** (Global: AI & Big Data) 
+* BS: **Jeonju University**: Computer Science & Engineering
 
 ### Software Engineer — AWS Cloud · IoT · 
 
