@@ -27,10 +27,7 @@
 
 ## Open Source
 
-**[ThingFlash](https://github.com/alisherka7/thingflash)**
-
-CLI tool that provisions IoT devices (ESP32, Raspberry Pi) to **production-ready AWS IoT Core** in one command — certificates, policies, MQTT connection, Firmware Update OTA Jobs.
-
+**[ThingFlash](https://github.com/thingflash/thingflash)** — an open-source CLI that provisions production-ready AWS IoT infrastructure in three commands
 
 ## Experience
 
