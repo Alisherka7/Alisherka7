@@ -13,7 +13,7 @@
 
 ## What I Do
 
-**R&D Software Engineer @ FutureConnect** — leading development of a **cloud-based robot fleet management platform** for vertical smart farms.
+**R&D Software Engineer <a href="https://futureconnect.co.kr/">@ FutureConnect</a>** — leading development of a **cloud-based robot fleet management platform** for vertical smart farms.
 
 - Architected and operate a smart farm control platform running **300+ vertical
   farm modules across New York, Atlanta, Seoul, and Incheon Int'l Airport**
@@ -31,7 +31,7 @@
 
 ## Experience
 
-**R&D Software Engineer @ Daewoong Pharmaceutical** — Sep 2023 – Apr 2024
+**R&D Software Engineer <a href="https://www.daewoong.co.kr/ko">@ Daewoong Pharmaceutical</a>** — Sep 2023 – Apr 2024
 
 - Led a team of global scholar students building **AI-powered internal tools**
   that reduced repetitive manual workflows to a few clicks
