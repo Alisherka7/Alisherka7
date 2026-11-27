@@ -17,7 +17,6 @@
 
 - Architected and operate a smart farm control platform running **300+ vertical
   farm modules across New York, Atlanta, Seoul, and Incheon Int'l Airport**
-  with 99.9% uptime
 - Built the platform end-to-end: from **ESP-IDF firmware with OTA updates**
   to a **Kubernetes (EKS) microservice backend** with full CI/CD pipelines
 - Designed a robot–cloud–device integrated control architecture using
