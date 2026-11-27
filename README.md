@@ -11,7 +11,7 @@
 
 ---
 
-## What I Do
+## Experience
 
 **R&D Software Engineer <a href="https://futureconnect.co.kr/">@ FutureConnect</a>** — leading development of a **cloud-based robot fleet management platform** for vertical smart farms.
 
@@ -22,14 +22,6 @@
   to a **Kubernetes (EKS) microservice backend** with full CI/CD pipelines
 - Designed a robot–cloud–device integrated control architecture using
   **AWS IoT Core and MQTT bridging**
-- Developed **AI-driven task distribution** for cultivation scheduling and
-  supply management across the farm network
-
-## Open Source
-
-**[ThingFlash](https://github.com/thingflash/thingflash)** — an open-source CLI that provisions production-ready AWS IoT infrastructure in three commands
-
-## Experience
 
 **R&D Software Engineer <a href="https://www.daewoong.co.kr/ko">@ Daewoong Pharmaceutical</a>** — Sep 2023 – Apr 2024
 
@@ -40,3 +32,7 @@
   **50+ daily active users**
 - Built a data pipeline that **scraped and processed 500,000+ health-related
   articles**
+
+## Open Source
+
+**[ThingFlash](https://github.com/thingflash/thingflash)** — an open-source CLI that provisions production-ready AWS IoT infrastructure in three commands
